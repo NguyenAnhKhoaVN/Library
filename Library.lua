@@ -1,4 +1,4 @@
--- Kết hợp redzlib và TeddyLib
+
 local CombinedLibrary = {}
 local MarketplaceService = game:GetService("MarketplaceService")
 local UserInputService = game:GetService("UserInputService")
